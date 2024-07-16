@@ -5,3 +5,12 @@ function even_or_odd(int $n): string {
 }
 
 even_or_odd(4);
+
+
+
+
+// The Simple Answer
+
+// function even_or_odd(int $n): string {
+//     return $n % 2 ? "Odd" : "Even";
+//   }
