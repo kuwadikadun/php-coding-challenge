@@ -22,6 +22,7 @@ square_digits(9119);
 
 
 
+
 // The Simple Answer
 
 // function square_digits($num){
